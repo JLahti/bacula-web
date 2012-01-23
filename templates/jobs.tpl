@@ -51,6 +51,7 @@
 		<td class="tbl_header">{t}Bytes{/t}</td>
 		<td class="tbl_header">{t}Files{/t}</td>
 		<td class="tbl_header">{t}Pool{/t}</td>
+		<td class="tbl_header">{t}Log{/t}</td>
 	  </tr>
 	<!-- <div class="listbox"> -->
 	  {foreach from=$last_jobs item=job}
@@ -70,6 +71,7 @@
 		<td class="{$job.Job_classe}">{$job.jobbytes}</td>
 		<td class="{$job.Job_classe}">{$job.jobfiles}</td>
 		<td class="{$job.Job_classe}">{$job.pool_name}</td>
+		<td class="{$job.Job_classe}"><a href="log.php?jobid={$job.jobid}">Log</a></td>
 	  </tr>
 	  {/foreach}
 	</table>

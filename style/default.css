@@ -256,3 +256,7 @@ table {
  color: #000000;
  font-weight: bold;
 }
+
+.box table tr td.log_message    {
+ text-align: left; 
+}
