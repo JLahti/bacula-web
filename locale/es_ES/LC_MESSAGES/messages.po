@@ -1,0 +1,369 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Juan Luis Francés Jiménez <bacula_listATveloxia,com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Bacula-web\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-16 21:46+0100\n"
+"PO-Revision-Date: 2004-06-10 18:35+0100\n"
+"Last-Translator: Juan Luis Francés <bacula_listATveloxia.com>\n"
+"Language-Team: LANGUAGE <bacula_listATveloxia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lang.c:1 lang.c:35 lang.c:50 lang.c:65
+msgid "Back to the dashboard"
+msgstr ""
+
+#: lang.c:2
+msgid "Required components"
+msgstr ""
+
+#: lang.c:3
+msgid "Graph system capabilities (Bacula-web only use PNG image format)"
+msgstr ""
+
+#: lang.c:4
+msgid "Pools and volumes status"
+msgstr ""
+
+#: lang.c:5
+msgid "Show pools and volumes report"
+msgstr ""
+
+#: lang.c:6 lang.c:11 lang.c:34
+msgid "View report"
+msgstr "Informe detallado"
+
+#: lang.c:7
+msgid "Stored bytes for last 7 days (GB)"
+msgstr ""
+
+#: lang.c:8
+msgid "Stored bytes"
+msgstr "Bytes transferidos"
+
+#: lang.c:9
+msgid "Last 24 hours jobs status"
+msgstr ""
+
+#: lang.c:10
+msgid "Show last 24 hours jobs status"
+msgstr ""
+
+#: lang.c:12
+msgid "Last used volumes"
+msgstr ""
+
+#: lang.c:13
+msgid "Overall status"
+msgstr ""
+
+#: lang.c:14
+msgid "Clients"
+msgstr "Cliente"
+
+#: lang.c:15
+msgid "Total bytes"
+msgstr "Bytes totales guardados"
+
+#: lang.c:16
+msgid "Total files"
+msgstr "Archivos totales:"
+
+#: lang.c:17
+msgid "Database size"
+msgstr ""
+
+#: lang.c:18
+msgid "Last 24 hours status"
+msgstr ""
+
+#: lang.c:19
+msgid "Failed jobs"
+msgstr ""
+
+#: lang.c:20
+msgid "Completed jobs"
+msgstr ""
+
+#: lang.c:21
+msgid "Waiting jobs"
+msgstr ""
+
+#: lang.c:22 lang.c:26
+msgid "Transferred Bytes"
+msgstr "Bytes transferidos"
+
+#: lang.c:23
+msgid "Transferred Files"
+msgstr "Bytes transferidos"
+
+#: lang.c:24
+msgid "Reports"
+msgstr "Puntos"
+
+#: lang.c:25
+msgid "Client"
+msgstr "Cliente"
+
+#: lang.c:27
+msgid "Transferred Files "
+msgstr "Bytes transferidos"
+
+#: lang.c:28
+msgid "Interval"
+msgstr ""
+
+#: lang.c:29
+msgid "Last week"
+msgstr ""
+
+#: lang.c:30
+msgid "Last 2 week"
+msgstr ""
+
+#: lang.c:31
+msgid "Last month"
+msgstr ""
+
+#: lang.c:32
+msgid "Backup Job report"
+msgstr ""
+
+#: lang.c:33
+msgid "Backup job name"
+msgstr ""
+
+#: lang.c:36
+msgid "Backup Job Report"
+msgstr ""
+
+#: lang.c:37
+msgid "Backup Job name"
+msgstr ""
+
+#: lang.c:38
+msgid "Period"
+msgstr "Período"
+
+#: lang.c:39
+msgid "Transfered Bytes"
+msgstr "Bytes transferidos"
+
+#: lang.c:40
+msgid "Transfered Files"
+msgstr "Bytes transferidos"
+
+#: lang.c:41
+msgid "Last jobs"
+msgstr ""
+
+#: lang.c:42
+#, fuzzy
+msgid "Job Id"
+msgstr ""
+
+#: lang.c:43 lang.c:60 lang.c:76
+msgid "Level"
+msgstr "Nivel"
+
+#: lang.c:44 lang.c:63 lang.c:78
+msgid "Files"
+msgstr "líneas"
+
+#: lang.c:45 lang.c:62 lang.c:77 lang.c:81
+msgid "Bytes"
+msgstr ""
+
+#: lang.c:46
+msgid "Start time"
+msgstr ""
+
+#: lang.c:47 lang.c:61
+msgid "End time"
+msgstr ""
+
+#: lang.c:48 lang.c:75
+msgid "Elapsed time"
+msgstr ""
+
+#: lang.c:49
+msgid "Transfered Bytes / Files"
+msgstr "Bytes / Files transferidos"
+
+#: lang.c:51
+msgid "Dashboard"
+msgstr ""
+
+#: lang.c:52
+msgid "Client Report"
+msgstr "Crear informe"
+
+#: lang.c:53
+msgid "Client informations"
+msgstr ""
+
+#: lang.c:54
+msgid "Client name"
+msgstr "Cliente"
+
+#: lang.c:55
+msgid "Client version"
+msgstr ""
+
+#: lang.c:56
+msgid "Client os"
+msgstr "Cliente:"
+
+#: lang.c:57
+msgid "Client arch"
+msgstr "Cliente"
+
+#: lang.c:58 lang.c:71
+msgid "Name"
+msgstr "Nombre"
+
+#: lang.c:59
+msgid "Jod Id"
+msgstr ""
+
+#: lang.c:64 lang.c:69 lang.c:85
+msgid "Status"
+msgstr "Estado"
+
+#: lang.c:66
+msgid "Jobs report"
+msgstr ""
+
+#: lang.c:67
+msgid "Jobs / Page"
+msgstr ""
+
+#: lang.c:68
+msgid "Job status"
+msgstr "Estado"
+
+#: lang.c:70
+msgid "Job ID"
+msgstr ""
+
+#: lang.c:72
+msgid "Type"
+msgstr "Tipo"
+
+#: lang.c:73
+msgid "Start Time"
+msgstr ""
+
+#: lang.c:74
+msgid "End Time"
+msgstr ""
+
+#: lang.c:79
+msgid "Pool"
+msgstr ""
+
+#: lang.c:80
+msgid "Volume name"
+msgstr ""
+
+#: lang.c:82
+msgid "Media Type"
+msgstr ""
+
+#: lang.c:83
+msgid "Expire"
+msgstr ""
+
+#: lang.c:84
+msgid "Last written"
+msgstr ""
+
+#: lang.c:86
+msgid "No volume(s) in this pool"
+msgstr ""
+
+#~ msgid "Bytes transferred last 30 days from ALL clients"
+#~ msgstr "Bytes transferidos los últimos 30 días de todos los clientes."
+
+#~ msgid "GENERAL DATA"
+#~ msgstr "DATOS GENERALES"
+
+#~ msgid "Total clients:"
+#~ msgstr "Clientes totales:"
+
+#~ msgid "Last month, bytes transferred"
+#~ msgstr "Último mes, bytes transferidos"
+
+#~ msgid "Last month, bytes transferred (pie)"
+#~ msgstr "Último mes, bytes transferidos(queso)"
+
+#~ msgid "General%20report"
+#~ msgstr "Informe%20general"
+
+#~ msgid "Status from last 24h"
+#~ msgstr "Estado de las últimas 24h"
+
+#~ msgid "Errors:"
+#~ msgstr "Errores:"
+
+#~ msgid "Terminated Jobs:"
+#~ msgstr "Jobs terminados:"
+
+#~ msgid "Total time spent to do backup:"
+#~ msgstr "Tiempo total en hacer el backup:"
+
+#~ msgid "Bytes transferred last 24h"
+#~ msgstr "Bytes transferidos en las últimas 24h"
+
+#~ msgid "Show details"
+#~ msgstr "Mostrar detalles"
+
+#~ msgid "Jobs with errors"
+#~ msgstr "Jobs con errores"
+
+#~ msgid "Select a job:"
+#~ msgstr "Seleccione un job:"
+
+#~ msgid "go"
+#~ msgstr "Ir"
+
+#~ msgid "Stats Bacula: Job"
+#~ msgstr "Bacula estadísticas: Job"
+
+#~ msgid "to"
+#~ msgstr "a"
+
+#~ msgid "Bytes transferred in the period:"
+#~ msgstr "Bytes transferidos en el período:"
+
+#~ msgid "Files transferred in the period:"
+#~ msgstr "Archivos transferidos en el período:"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "Elapsed"
+#~ msgstr "Transcurrido"
+
+#~ msgid "SELECT NEW REPORT"
+#~ msgstr "SELECCIONAR NUEVO INFORME"
+
+#~ msgid "Graph mode:"
+#~ msgstr "Modo gráfico"
+
+#~ msgid "bars"
+#~ msgstr "barras"
+
+#~ msgid "area"
+#~ msgstr "área"
+
+#~ msgid "Data to show:"
+#~ msgstr "Datos a mostrar"
+
+#~ msgid "When expire?"
+#~ msgstr "Cuándo expira?"
